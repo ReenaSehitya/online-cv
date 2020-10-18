@@ -8,38 +8,39 @@ sidebar:
 
     # Profile information
     name: Reena Sehitya
-    tagline: Full Stack Developer
+    tagline: Data Analyst
     avatar: Profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: reena.sehitya@gmail.com
+    phone: 408 360 7541
+    linkedin: reena-sehitya-9914b954
+    github: ReenaSehitya
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: Sindhi
         level: Professional
-
-      - idiom: Spanish
+       
+      - idiom: Bengali
         level: Professional
-
+    
     interests:
-      - item: Climbing
+      - item: Driving
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
       - item: Cooking
@@ -48,16 +49,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Resolutely persistent and passionate to work with data to derive business insights and help converting those insight into knowledge to bring innovation into an organization. With 2+ years of professional experience working as a Risk analyst in the investment banking industry along with extensive learning from the business analytics graduate program at Golden Gate University, I have acquired strong analytical skills to explore and run exhaustive analysis on complex datasets
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Business Analytics
+      university: Golden Gate University, Edward S. Ageno School of Business 
+      time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Commerce (B.Com.)
+      university: University of Calcutta
+      time: 2005 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,114 +74,89 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - degree: Chartered Financial Analyst
+      university: CFA Institute , USA
+      time: 2010 - 2014
+    - degree: Financial Risk Management
+      university: GARP , USA
+      time: 2010 - 2012
+
+experiences: 
+    - role: Credit Risk Analyst
+      time: 2015 - 2016
+      company: Credit Suisse, Pune (India)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Automated the generation of daily reports that helped the team isolate sensitivity feeds with irregular spikes based on certain calculated threshold values thereby saving eight hours of effort per month.
+          - Responsible for ensuring the completeness and accuracy of risk data used for Credit Risk exposure calculation (VAR/PE/EPE) in the Global Credit Risk system.
+          - Responsible for validation and investigation of movements and contributions to the overall risk numbers for daily Value at Risk reporting.
+          - Liaise with engineering and change management team for any technical, functional or strategic fixes to anomalies in the recurring risk data feeds.
+       
+    - role: RESEARCH ANALYST
+      time: 2012 - 2013
+      company: EAST INDIA SECURITIES LTD, Kolkata (India)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Executed the design of an Intra-day pair trading strategy which enabled day traders make buy and sell decisions based on a stock’s historical performance which increased profits for the company by 5%.
+          - Automated checking the profitability of the pair trading strategy on a daily basis which helped improve the trading strategy to take into account external economic factors.
+          - Analyze the accuracy of an EMA-based Automated Trading Strategy by matching trades and data mining the price of 138 stocks to perform back testing; deriving 5-minute candles for every trading day using EMA formula for generating next day trades.
+          - Design spreadsheet models on the following derivatives strategies like Bull & Bear Spreads, Calendar Spreads, Butterfly Spreads, Straddle, Strangle, Box, Cal-Box etc.
+          
+    - role: Finance & Accounting Manager
+      time: 2008 - 2012
+      company: Sehitya Logistics LLC, Kolkata (India_
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Managed the Profit & Loss for my father’s logistics business – an enterprise that owns 10-20 trucks supplying construction material across four states and had twenty truck drivers on its payroll
+          - Fueled the growth of the business by reducing business expenses for the firm by 10% - achieved by revamping the firms accounting books to track business expenses at a more granular level which helped identify cost savings
+          - Managed payroll, loans, accounts payable and payroll for the firm; responsible for calculating and filing sales tax on a quarterly basis
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: Prediction of Employee Attrition at the Organization using ML models (Python, Tableau)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Prepared and validated the dataset imported from Kaggle, ran exploratory analysis to see how each attribute is related to attrition rate. Processed data by encoding category variable, checked if features have multicollinearity that could lead to incorrect result of Logistic regression model. Split the dataset into training and test datasets, optimized the logistic regression model to reach an F1 score of 53%, a recall score of 44.7% and precision score of 63.6% ."
 
-      - title: DevStudio
+      - title: Statistical Analysis on Factors Affecting Medical Expenses (Python)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Ran exploratory analysis to examine the central tendency, variability, skewedness and kurtosis of each predictors with medical expenses. Ran one-way and two-way ANOVA tests of medical expenses with categorical variables to check if they are significantly related to each other. Transformed the response variable, ran multiple regression analysis and achieved r-square and adjusted r-square of this model is 0.759 and 0.757 respectively with all the explanatory variable such as age, BMI, smoker, gender, region significantly related to medical expenses."
+    
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Volunteer Experience
+    intro:
     papers:
-      - title: The Art of Computer Programming
+      - title: Vice President of Academic Development
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: GGU Business & Data Analytics Club
+        conference: "April 2020-present"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Marketing Analyst"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Project Management Institute
+        conference: "April 2020-present"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python 
         level: 60%
 
+      - name: R
+        level: 45%
+
+      - name: SQL
+        level: 60%
+
+      - name: PostgreSQL
+        level: 60%
+
+      - name: Tableau, MicroStrategy
+        level: 65%
+
+      - name: Google Analytics
+        level: 65%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Reena Sehitya</a>
