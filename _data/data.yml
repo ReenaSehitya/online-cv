@@ -52,7 +52,7 @@ career-profile:
       Resolutely persistent and passionate to work with data to derive business insights and help converting those insight into knowledge to bring innovation into an organization. With 2+ years of professional experience working as a Risk analyst in the investment banking industry along with extensive learning from the business analytics graduate program at Golden Gate University, I have acquired strong analytical skills to explore and run exhaustive analysis on complex datasets
       
 education:
-    - degree: MSc in Business Analytics
+    - degree: MS in Business Analytics
       university: Golden Gate University, Edward S. Ageno School of Business 
       time: 2019 - 2021
       details: |
@@ -113,11 +113,11 @@ projects:
       
     assignments:
       - title: Prediction of Employee Attrition at the Organization using ML models (Python, Tableau)
-        link: "https://github.com/ReenaSehitya/MyProjects-In-Python/tree/master/Statistical%20Analysis%20on%20Factors%20Affecting%20Medical%20Expenses"
+        link: "https://github.com/ReenaSehitya/MyProjects-In-Python/tree/master/Factors%20influencing%20Employee%20Attrition%20and%20Retention"
         tagline: "Prepared and validated the dataset imported from Kaggle, ran exploratory analysis to see how each attribute is related to attrition rate. Processed data by encoding category variable, checked if features have multicollinearity that could lead to incorrect result of Logistic regression model. Split the dataset into training and test datasets, optimized the logistic regression model to reach an F1 score of 53%, a recall score of 44.7% and precision score of 63.6% ."
 
       - title: Statistical Analysis on Factors Affecting Medical Expenses (Python)
-        link: "#"
+        link: "https://github.com/ReenaSehitya/MyProjects-In-Python/tree/master/Statistical%20Analysis%20on%20Factors%20Affecting%20Medical%20Expenses"
         tagline: "Ran exploratory analysis to examine the central tendency, variability, skewedness and kurtosis of each predictors with medical expenses. Ran one-way and two-way ANOVA tests of medical expenses with categorical variables to check if they are significantly related to each other. Transformed the response variable, ran multiple regression analysis and achieved r-square and adjusted r-square of this model is 0.759 and 0.757 respectively with all the explanatory variable such as age, BMI, smoker, gender, region significantly related to medical expenses."
     
 
