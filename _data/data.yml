@@ -113,7 +113,7 @@ projects:
       
     assignments:
       - title: Prediction of Employee Attrition at the Organization using ML models (Python, Tableau)
-        link: "#hook"
+        link: "https://github.com/ReenaSehitya/MyProjects-In-Python/tree/master/Statistical%20Analysis%20on%20Factors%20Affecting%20Medical%20Expenses"
         tagline: "Prepared and validated the dataset imported from Kaggle, ran exploratory analysis to see how each attribute is related to attrition rate. Processed data by encoding category variable, checked if features have multicollinearity that could lead to incorrect result of Logistic regression model. Split the dataset into training and test datasets, optimized the logistic regression model to reach an F1 score of 53%, a recall score of 44.7% and precision score of 63.6% ."
 
       - title: Statistical Analysis on Factors Affecting Medical Expenses (Python)
