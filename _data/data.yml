@@ -120,7 +120,8 @@ projects:
         link: "https://github.com/ReenaSehitya/MyProjects-In-Python/tree/master/Statistical%20Analysis%20on%20Factors%20Affecting%20Medical%20Expenses"
         tagline: "Ran exploratory analysis to examine the central tendency, variability, skewedness and kurtosis of each predictors with medical expenses. Ran one-way and two-way ANOVA tests of medical expenses with categorical variables to check if they are significantly related to each other. Transformed the response variable, ran multiple regression analysis and achieved r-square and adjusted r-square of this model is 0.759 and 0.757 respectively with all the explanatory variable such as age, BMI, smoker, gender, region significantly related to medical expenses."
       
-      - title: Text Analytics on Customer’s Reviews on Amazon Products (Python, IBM SPSS Modeler)
+      - title: Text Analytics on Customer’s Reviews on Amazon Products(Python,IBM SPSS-Modeler)
+
 publications:
     title: Volunteer Experience
     intro:
