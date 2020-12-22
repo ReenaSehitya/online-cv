@@ -124,9 +124,13 @@ projects:
         link: "https://github.com/ReenaSehitya/MyProjects-In-Python/tree/master/Text%20Analytics%20on%20Customer%E2%80%99s%20Reviews%20on%20Amazon%20Products"
         tagline: "Ran data cleaning and pre-processing on text reviews posted by customers for the products that they purchased on Amazon website. Trained the model based on sentiment labels and text reviews given by customers using different classification ML algorithms such as Logistic Regression, Random Forest to identify sentiments on its own on new instances of reviews with higher precision and accuracy. Ran text summarization, categorization, and text link analysis using SPSS modeler platform to extract popular concepts, different categories of customers’ reactions about what they most like & dislike of the products. Thorough analysis of text reviews and ratings and building predictive model were ran to help Amazon to understand what people think and feel about the product, brands, services and eventually improving online buying experience with Amazon and forming better brand monitoring strategy. "
       
-      - title: PayPal Mobile Payment Landscape 
+      - title: PayPal Mobile Payment Landscape (R-studio)
         link: "https://github.com/ReenaSehitya/MyProjects-In-Python-R/tree/master/PayPal%20Mobile%20Payment%20Landscape"
         tagline: "Identified social media sentiments for PayPal compared to the sentiments expressed for its competitor Google Pay. Supported by market research, identify top three, high priority customer segments for PayPal’s mobile payment service. Aimed to achieve our success criteria: PayPal will use these segments to effectively design and market its services which will help the company to increase its revenue by 1.24 billion (7% increase) in 1 year. "
+      
+      - title: Customer Segmentation using K-Means Clustering (Python)
+        link: "https://github.com/ReenaSehitya/MyProjects-In-Python-R/tree/master/Customer%20Segmentation%20using%20K-Means%20Clustering"
+        tagline: "Ran exploratory data analysis and data preparation to change types, country with maximum number of orders, dropped missing values and unnecessary column, rows with negative and unusual values. Ran Customer segmentation using RFM principle with K-Means clustering: an unsupervised machine learning algorithm. Successfully identified low priority segment, and high priority segments which helped in planning where to invest our resources, promotion budget should be spent, and used the left-over resources on low priority segment. "
 
 publications:
     title: Volunteer Experience
