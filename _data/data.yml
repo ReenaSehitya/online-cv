@@ -112,7 +112,7 @@ projects:
     intro: >
       
     assignments:
-      - title: Prediction of Employee Attrition at the Organization using ML models (Python, Tableau)
+      - title: Prediction of Employee Attrition at the Organization using ML models (Python, Tableau): The project’s aim was to explore effective measures an organization can take to avoid attrition and retain high performing employees
         link: "https://github.com/ReenaSehitya/MyProjects-In-Python/tree/master/Factors%20influencing%20Employee%20Attrition%20and%20Retention"
         tagline: "Prepared and validated the dataset imported from Kaggle, ran exploratory analysis to see how each attribute is related to attrition rate. Processed data by encoding category variable, checked if features have multicollinearity that could lead to incorrect result of Logistic regression model. Split the dataset into training and test datasets, optimized the logistic regression model to reach an F1 score of 53%, a recall score of 44.7% and precision score of 63.6% ."
       
