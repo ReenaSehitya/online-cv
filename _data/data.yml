@@ -86,27 +86,25 @@ experiences:
       time: 2015 - 2016
       company: Credit Suisse, Pune (India)
       details: |
-          - Automated the generation of daily reports that helped the team isolate sensitivity feeds with irregular spikes based on certain calculated threshold values thereby saving eight hours of effort per month.
-          - Responsible for ensuring the completeness and accuracy of risk data used for Credit Risk exposure calculation (VAR/PE/EPE) in the Global Credit Risk system.
-          - Responsible for validation and investigation of movements and contributions to the overall risk numbers for daily Value at Risk reporting.
-          - Liaise with engineering and change management team for any technical, functional or strategic fixes to anomalies in the recurring risk data feeds.
+          - Ensured the completeness and accuracy of Risk data used for Credit Risk exposure calculation (VAR/PE/EPE) in the Global Credit Risk system, validation and investigation of movements and contributions of the overall risk numbers for daily VAR reporting.
+          - Resolved errors in risk data, by validating source and target data, using SQL / UNIX
+          - Liaised with IT and Change Management Team for Technical / Functional / Strategic fix to any recurring risk data breaks.
        
     - role: RESEARCH ANALYST
       time: 2012 - 2013
       company: EAST INDIA SECURITIES LTD, Kolkata (India)
       details: |
-          - Executed the design of an Intra-day pair trading strategy which enabled day traders make buy and sell decisions based on a stock’s historical performance which increased profits for the company by 5%.
-          - Automated checking the profitability of the pair trading strategy on a daily basis which helped improve the trading strategy to take into account external economic factors.
-          - Analyze the accuracy of an EMA-based Automated Trading Strategy by matching trades and data mining the price of 138 stocks to perform back testing; deriving 5-minute candles for every trading day using EMA formula for generating next day trades.
-          - Design spreadsheet models on the following derivatives strategies like Bull & Bear Spreads, Calendar Spreads, Butterfly Spreads, Straddle, Strangle, Box, Cal-Box etc.
+          - Designed spreadsheet models on the following derivatives strategies like Bull & Bear Spreads, Calendar Spreads, Butterfly Spreads, Straddle, Strangle, Box, Cal-Box etc.
+          - Analyzed the accuracy of an EMA-based Automated Trading Strategy by matching trades and data mining the price of 138 NSE stocks to perform back testing, deriving 5 min candles for every trading day using EMA formula for generating next day trades.
+          - Co-created an Intra-day pair trading strategy was designed in which required number of stocks are purchased & sold based on their previous day's performance; improved the profitability of the Pair trading strategy.
           
     - role: Finance & Accounting Manager
       time: 2008 - 2012
       company: Sehitya Logistics LLC, Kolkata (India_
       details: |
-          - Managed the Profit & Loss for my father’s logistics business – an enterprise that owns 10-20 trucks supplying construction material across four states and had twenty truck drivers on its payroll
-          - Fueled the growth of the business by reducing business expenses for the firm by 10% - achieved by revamping the firms accounting books to track business expenses at a more granular level which helped identify cost savings
-          - Managed payroll, loans, accounts payable and payroll for the firm; responsible for calculating and filing sales tax on a quarterly basis
+          - Managed the Profit & Loss for a logistics business – an enterprise that owns 15-20 trucks supplying construction material across four states and had twenty truck drivers on its payroll.
+          - Fueled the growth of the business by reducing business expenses for the firm by 10% - achieved by revamping the firms accounting books to track business expenses at a more granular level which helped identify cost savings.
+          - Managed payroll, loans, accounts payable and payroll for the firm; responsible for calculating and filing sales tax on a quarterly basis resulting in 100% compliance during company’s accounting audit.
 projects:
     title: Projects
     intro: >
